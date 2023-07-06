@@ -1,4 +1,4 @@
-# Modeling Matters!
+# Modeling Matters
 
 Contains files associated with the following questions at [MMSE](https://mattermodeling.stackexchange.com/):
 
